@@ -1,5 +1,5 @@
 # Powershell_4_SQL-
-Library of missing elements for SQL server
+Library of missing powershell commands for SQL server
 
 Functions included
 
