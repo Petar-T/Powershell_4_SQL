@@ -4,9 +4,9 @@ Library of missing elements for SQL server
 Functions included
 
 ```powershell
-Function Get-MissingIndexes     #v1.0 <br>
-Function Get-unusedIndexes      #v1.0 <br>
-Function Get-ExpensiveQueries   #v1.1 <br> 
+Function Get-MissingIndexes     #v1.0
+Function Get-unusedIndexes      #v1.0
+Function Get-ExpensiveQueries   #v1.1 
 Function Get-Warnings           #v1.1 <br>
 Function Match_Indexes          #v2.0  <br>
 Function Match_AG_Logins        #v2.0   <br>
